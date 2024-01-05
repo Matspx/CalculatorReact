@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora </h1>
+<h1 align="center"> Calculadora ⚛️</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-    <img alt="projeto DevLinks" src="./github/preview.png" width="100%" >⚛️
+    <img alt="projeto DevLinks" src="./github/preview.png" width="100%" >
 </p>
 
 <p align="center">
