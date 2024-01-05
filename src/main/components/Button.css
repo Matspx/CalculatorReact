@@ -1,0 +1,30 @@
+:root {
+    --bg-button: #3B3B3B;
+    --bg-button-1: #555555;
+}
+
+.button {
+    font-size: 1.4rem;
+    background: var(--bg-button);
+    border:none;
+    border-radius: 0.4rem;    
+    color: white;
+    margin: 0.14rem;
+}
+.grid2 {
+    grid-column: span 2;
+}
+
+.func-btn{
+    background-color: #323232;
+}
+
+.func-btn:active{
+    background-color: #323232c4;
+
+}
+
+.resolve{
+    background-color: #4CC2FF;
+
+}
